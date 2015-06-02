@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1) Facebook  
    https://www.facebook.com/ConnectingVisions
 2) Twitter
@@ -5,4 +6,13 @@
 3) LinkedIn
    cn.linkedin.com/in/alvinyong23/
 
+=======
+1) Facebook  
+   https://www.facebook.com/ConnectingVisions
+2) Twitter
+   https://twitter.com/search?q=connecting%20visions&src=typd
+3) LinkedIn
+   cn.linkedin.com/in/alvinyong23/
+
+>>>>>>> 620e53c12c7cb89c08ab0aeb35a777e840c17e8b
 4) Skype     connecting_visions
